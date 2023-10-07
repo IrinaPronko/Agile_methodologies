@@ -1,1 +1,1 @@
-# Agile_methodologies
+# Гибкие методологии (Agile, SCRUM, Канбан и другие) (семинары)
